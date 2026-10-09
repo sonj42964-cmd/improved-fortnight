@@ -1,0 +1,22 @@
+[共通ルール]
+- 文字は画像に入れない（文字は編集ソフトで後から重ねる）
+- 16:9 / 1920x1080 / 左側か上側に文字を置く余白を確保
+- 実在の人物の顔に似せない、血や残酷な描写は入れない
+- 中高年の視聴者とテレビ画面でも一目で読めるよう、被写体は大きく、コントラストは強く
+
+[A案：四つの炎と崩れる柱（文言「四度よみがえった国」に合う）]
+Cinematic wide shot of the Roman Forum at dusk, ancient marble columns with one column broken and falling in the right foreground, four small golden flames burning on four stone pedestals in a row leading toward the horizon, a fifth pedestal at the end with the flame just blown out and a thin line of smoke rising. Deep teal and warm gold color grade, dramatic sky, strong contrast, large simple shapes, empty dark area on the left for text, no text, no people close-up, photorealistic, 16:9
+
+[B案：金の指輪の山（イントロの場面）]
+Close-up cinematic shot of a huge pile of ancient gold rings spilled across a dark stone senate-hall floor, torches lighting the rings from the side, a shadowy Roman-era hall in the background, warm gold on near-black, shallow depth of field, empty dark space in the upper left for text, no text, no faces, photorealistic, 16:9
+
+[C案：少年皇帝と王冠（476年の場面）]
+Dramatic illustration of an empty ancient Roman throne room, a small laurel crown lying alone on the marble floor in a shaft of light, the silhouette of a very young boy in a toga standing far away at the arched doorway looking back, long shadows, cool blue and gold palette, empty area on the left for text, no text, no clear face, painterly realism, 16:9
+
+[D案：コロッセウムの夜明け（安全で見やすい王道）]
+Epic wide shot of the Colosseum at sunrise, half in warm light and half in deep shadow, four glowing golden light beams rising from the arena into the sky like pillars, dark clouds above, strong contrast, large simple composition, empty area on the left for text, no text, no people, photorealistic, 16:9
+
+[文字の置き方]
+- 小さなラベル（上段、小さめ）：ローマ1200年 要約
+- 大きな文字（中央〜下段、特大・白か金・縁取り）：四度よみがえった国
+- タイトルの「なぜ永遠になれなかったのか」を繰り返さないこと（PART 0-3）
