@@ -1,0 +1,22 @@
+[共通ルール]
+- 文字は画像に入れない（文字は編集ソフトで後から重ねる）
+- 16:9 / 1920x1080 / 左側か上側に文字を置く余白を確保
+- 中高年の視聴者とテレビ画面でも一目で読めるよう、被写体は大きく、明暗の差を強く
+- 恐竜は初期の小型種（体長1〜2m、二足歩行、羽毛は描かない）。実在の人物は入れない
+
+[A案：雨と日照りの二分割（文言「降って、乾いて、また降って／勝者は隅にいた」に直結）]
+Wide cinematic split composition of a Late Triassic landscape, left half: heavy storm rain pouring over flooded muddy ground with a large crocodile-line predator and a pig-sized beaked herbivore looking small and miserable; right half: cracked dry dusty desert under a harsh sun; a thin diagonal line of lightning and clouds blends the two halves; in the lower right corner a small slim two-legged early dinosaur about one meter long stands alone on a rock, calm and alert, sharply lit by a warm golden light, the rest of the scene in cool desaturated teal; strong contrast, large simple shapes, empty dark area on the upper left for text, no text, photorealistic, 16:9
+
+[B案：隅で見つめる小さな恐竜（主役は隅にいた）]
+Dramatic wide shot, a giant prehistoric crocodile-line predator and a herd of beaked reptiles in the center of the frame being swallowed by heavy rain and rising brown floodwater, while in the extreme bottom-right corner a small early dinosaur watches from a dry ledge, rim-lit with warm light, deep blue storm clouds above, volcanic orange glow on the far horizon, low camera angle, strong depth, empty dark space on the left for text, no text, photorealistic, 16:9
+
+[C案：海の底の火から雨へ（因果を一枚で）]
+Epic vertical-flow composition, bottom: a glowing orange underwater volcanic eruption on the deep ocean floor with ash and bubbles, middle: steam rising into a huge dark storm cloud, top: heavy rain falling over a vast dry supercontinent with a tiny silhouette of an early dinosaur on a hill, teal and amber color grade, strong contrast, empty area on the upper left for text, no text, no people, photorealistic, 16:9
+
+[D案：日本の川底の岩（日本向けの意外性）]
+Photorealistic close view of layered thin red and gray chert rock slabs exposed in a Japanese river bed (Kiso River style), clear shallow water flowing over them, soft morning light, and in the layers a faint translucent glowing overlay of a tiny ancient dinosaur footprint and rain streaks as if the rock remembers the Triassic rain, shallow depth of field, empty space on the left for text, no text, 16:9
+
+[文字の置き方（推奨：A案の画像に重ねる）]
+- 小さなラベル（上段・小さめ・白）：降って、乾いて、また降って
+- 大きな文字（中央〜下段・特大・金色か白＋黒縁）：勝者は隅にいた
+- タイトルの「地球の支配者はどう入れ替わったのか」を繰り返さない
